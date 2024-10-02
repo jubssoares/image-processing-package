@@ -8,7 +8,7 @@
   <b>Descrição do desafio:</b> Neste projeto, criei meu primeiro pacote de processamento de imagens em Python e o disponibilizei no repositório <a href="https://pypi.org/project/image-processing-desafio-dio-jubssoares/0.0.1/" target="_blank">PyPI</a>.
 </p>
 
-# image-processing-desafio-dio-jubssoares 0.0.1
+## image-processing-desafio-dio-jubssoares 0.0.1
 
 ### Description
 
