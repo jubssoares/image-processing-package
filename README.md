@@ -5,30 +5,42 @@
 <h3>Repositório criado para o desafio do bootcamp NTT DATA - Engenharia de Dados com Python</h3>
 
 <p align="justify">
-  <b>Descrição do desafio:</b> Neste projeto, criei meu primeiro pacote de processamento de imagens em Python e o disponibilizei no repositório a href="https://pypi.org/project/image-processing-desafio-dio-jubssoares/0.0.1/" target="_blank">PyPI</a>.
+  <b>Descrição do desafio:</b> Neste projeto, criei meu primeiro pacote de processamento de imagens em Python e o disponibilizei no repositório <a href="https://pypi.org/project/image-processing-desafio-dio-jubssoares/0.0.1/" target="_blank">PyPI</a>.
 </p>
 
-# image_processing
+# image-processing-desafio-dio-jubssoares 0.0.1
 
-Description. 
-The package image_processing used to:
-	Processing:  
-	    - Histogram matching
-	    - Structural similarity
-	    - Resize image
-    Utils:
-        - Read image
-        - Save image
-        - Plot image
-        - Plot result
-        - Plot histogram
+### Description
+
+<p>
+    The package <strong>image_processing</strong> used to:
+    <ul>
+        <li><strong>Processing:</strong>
+            <ul>
+                <li>Histogram matching</li>
+                <li>Structural similarity</li>
+                <li>Resize image</li>
+            </ul>
+        </li>
+        <li><strong>Utils:</strong>
+            <ul>
+                <li>Read image</li>
+                <li>Save image</li>
+                <li>Plot image</li>
+                <li>Plot result</li>
+                <li>Plot histogram</li>
+            </ul>
+        </li>
+    </ul>
+</p>
+
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing.
 
 ```bash
-pip install image_processing
+pip install image-processing-desafio-dio-jubssoares==0.0.1
 ```
 
 ## Author
