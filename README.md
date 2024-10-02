@@ -1,6 +1,6 @@
 <h1>Criando um Pacote de Processamento de Imagens com Python</h1>
 
-<img align="right" height="200" style="border-radius:50px;" src="https://assets.dio.me/E5KMSxmK8QAcAO9SDazfzGNWHnaMzQE-Xi_V8lxXX9I/f:webp/h:120/q:80/L3RyYWNrcy8yYTNhMmQyYi03ZGU3LTQ1N2MtYjRkZi1kY2QzMjdlYWU5ZWIucG5n">
+<img align="right" height="150" style="border-radius:50px;" src="https://assets.dio.me/E5KMSxmK8QAcAO9SDazfzGNWHnaMzQE-Xi_V8lxXX9I/f:webp/h:120/q:80/L3RyYWNrcy8yYTNhMmQyYi03ZGU3LTQ1N2MtYjRkZi1kY2QzMjdlYWU5ZWIucG5n">
 
 <h3>Repositório criado para o desafio do bootcamp NTT DATA - Engenharia de Dados com Python</h3>
 
